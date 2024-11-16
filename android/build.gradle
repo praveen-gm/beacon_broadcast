@@ -26,7 +26,7 @@ apply plugin: 'kotlin-android'
 
 android {
     namespace = "pl.pszklarska.beacon_broadcast"
-    compileSdkVersion 28
+    compileSdkVersion 30
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_17
